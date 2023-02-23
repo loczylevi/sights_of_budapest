@@ -68,7 +68,7 @@
                     display: block;
                     z-index: 98;
                     background-color: grey;
-                    padding-top: 120px;
+                    padding-top: 80px;
                     transition: 0.4s;
                     opacity: 0.9;
                   }
